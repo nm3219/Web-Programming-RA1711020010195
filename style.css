@@ -1,0 +1,77 @@
+.content-box-left-topgrid h3{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1.8em;
+	font-weight: 400;
+	color: #995c00;
+	text-transform: uppercase;
+	border-bottom: 1px solid rgba(85, 85, 85, 0.1);
+	padding: 0em 0 0.2em 0;
+	margin: 0px 0px 0.5em 0;
+}
+.content-box-left-bootomgrid{
+	width:31.33%;
+	float:left;
+	margin-right:3%;
+}
+.content-box-left-bootomgrid h3{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 1.3em;
+	font-weight: 400;
+	color: white;
+	text-transform: uppercase;
+}
+.content-box-left-bootomgrid img{
+	background:#FFF;
+	padding:5px;
+	display:block;
+	width: 93%;
+}
+.content-box-left-bootomgrid:hover img{
+	background:#71D6EA;
+}
+
+.lastgrid{
+	margin:0;
+}
+.topnav{
+	background: url(top-nav-bg.png) repeat-x;
+	overflow: hidden;
+ }
+.topnav a{
+    float: left;
+    display: block;
+	color:orange;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+    font-size: 17px;
+	}  
+
+.topnav a:hover {
+		background-color: #ddd;
+		color: black;
+} 
+section
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(bg.jpg);
+    background-attachment: fixed;
+    clip-path: circle(0px at center);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
